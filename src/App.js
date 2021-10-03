@@ -1,9 +1,9 @@
 import './App.css';
-import AccessoriesComponent from './AccessoriesComponent'
+import HeaderComp from './Components/HeaderComp'
 function App() {
   return (
     <>
-   <AccessoriesComponent/>
+     <HeaderComp/>
     </>
   );
 }
